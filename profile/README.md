@@ -5,7 +5,7 @@
 
 **Modern Collaborative Work Management Platform**
 
-[🌐 Live Application](https://nebwork.app/) • [📖 Documentation](https://claude.ai/chat/9729fa39-00b1-4553-8bec-a31404f4a8f6#documentation) • [🚀 Repositories](https://claude.ai/chat/9729fa39-00b1-4553-8bec-a31404f4a8f6#repositories)
+[🌐 Live Application](https://nebwork.app/) • [🚀 Repositories](https://github.com/orgs/kada-hackathon/repositories)
 
 </div>
 
