@@ -1,6 +1,6 @@
-
+<div align="center">
 # Nebwork - Kada Hackathon Organization
-
+</div>
 <div align="center">
 
 **Modern Collaborative Work Management Platform**
