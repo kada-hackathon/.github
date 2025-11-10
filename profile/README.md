@@ -1,6 +1,7 @@
 <div align="center">
-# Nebwork - Kada Hackathon Organization
+<h1>Nebwork - Kada Hackathon Organization</h1>
 </div>
+
 <div align="center">
 
 **Modern Collaborative Work Management Platform**
